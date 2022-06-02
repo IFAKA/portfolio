@@ -6,8 +6,8 @@ export default function About() {
       <Article>
         <Title>FAKA</Title>
         <Description>
-          Ambition, detail and metrics-driven leader.
-          <br />I program to help you make a difference.
+          Ambition, detail and metrics-driven.
+          <br />I code to help you make a difference.
         </Description>
       </Article>
     </div>
