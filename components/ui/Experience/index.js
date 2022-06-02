@@ -26,7 +26,7 @@ export default function Experience() {
         <Subtitle>Blockchain Developer</Subtitle>
         <Description>
           I made a{" "}
-          <Anchor url={"https://marketplace-course.vercel.app/"}>
+          <Anchor url={"https://growledge.vercel.app/"}>
             course marketplace
           </Anchor>{" "}
           using Web3.js to interact to the contract, SWR for data fetching,
@@ -34,7 +34,7 @@ export default function Experience() {
           styling elements and Solidity to make Smart Contracts.
           <br />
           The project runs on the Ropsten Testnet. Check the{" "}
-          <Anchor url={"https://github.com/IFAKA/marketplace-course"}>
+          <Anchor url={"https://github.com/IFAKA/growledge"}>
             code
           </Anchor>
           .
