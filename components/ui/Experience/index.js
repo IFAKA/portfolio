@@ -5,7 +5,7 @@ export default function Experience() {
     <div className="container">
       <Title>Experience</Title>
       <Article>
-        <Subtitle>Lead Web Developer</Subtitle>
+        <Subtitle>Lead Developer</Subtitle>
         <Description>
           I worked in a startup that raised more than{" "}
           <Anchor
